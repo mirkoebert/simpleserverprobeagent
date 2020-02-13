@@ -1,6 +1,6 @@
 # Web Performance Measuring Agent
 
-FROM centos:centos7 
+FROM centos:centos8 
 MAINTAINER "mirko@ebert-p.com"
 #ENV TERM xterm-256color
 
